@@ -1,37 +1,32 @@
 [
   {
-    "icon": "Blog",
+    "icon": "Video",
     "name": "奴娜TV",
     "link": "https://www.nntv.in/"
   },
   {
-    "icon": "Cloud",
+    "icon": "Search",
     "name": "百度一下",
     "link": "https://www.baidu.com/"
   },
   {
-    "icon": "CompactDisc",
+    "icon": "Google",
     "name": "谷歌",
     "link": "https://www.google.com/"
   },
   {
-    "icon": "Compass",
+    "icon": "Youtube",
     "name": "Youtube",
     "link": "https://www.youtube.com/"
   },
   {
-    "icon": "Book",
+    "icon": "Facebook",
     "name": "Facebook",
     "link": "https://www.facebook.com/"
   },
   {
-    "icon": "Fire",
+    "icon": "Twitter",
     "name": "X",
     "link": "https://x.com/"
-  },
-  {
-    "icon": "LaptopCode",
-    "name": "站点监测",
-    "link": "https://status.imsyy.top/"
   }
 ]
