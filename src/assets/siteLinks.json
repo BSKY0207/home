@@ -6,28 +6,28 @@
   },
   {
     "icon": "Cloud",
-    "name": "网盘",
-    "link": "https://pan.imsyy.top/"
+    "name": "百度一下",
+    "link": "https://www.baidu.com/"
   },
   {
     "icon": "CompactDisc",
-    "name": "音乐",
-    "link": "https://music.imsyy.top/"
+    "name": "谷歌",
+    "link": "https://www.google.com/"
   },
   {
     "icon": "Compass",
-    "name": "起始页",
-    "link": "https://nav.imsyy.top/"
+    "name": "Youtube",
+    "link": "https://www.youtube.com/"
   },
   {
     "icon": "Book",
-    "name": "网址集",
-    "link": "https://web.imsyy.top/"
+    "name": "Facebook",
+    "link": "https://www.facebook.com/"
   },
   {
     "icon": "Fire",
-    "name": "今日热榜",
-    "link": "https://hot.imsyy.top/"
+    "name": "X",
+    "link": "https://x.com/"
   },
   {
     "icon": "LaptopCode",
